@@ -15,7 +15,7 @@ This proyect  requires no modules outside of the core.
 
 ## Links
 * The URL of the deployed application.
-[https://yazmin30-bot.github.io/portfolio/](https://yazmin30-bot.github.io/portfolio/)
+[https://yazmin30-bot.github.io/password-generator/](https://yazmin30-bot.github.io/password-generator/)
 
 * The URL of the GitHub repository
 [https://github.com/Yazmin30-bot/password-generator/](https://github.com/Yazmin30-bot/password-generator/)
